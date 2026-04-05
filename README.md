@@ -26,7 +26,7 @@ IAM Users → IAM Policy → S3 Bucket Policy → S3
 
 CloudTrail → CloudWatch → SNS Alerts
 
-![Visual Architecture](VisualArchitecture.png)
+![Visual Architecture](Visual%20Architecture.png)
 ---
 
 ## Technologies Used
