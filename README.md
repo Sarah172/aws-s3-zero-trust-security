@@ -195,7 +195,7 @@ CloudTrail → CloudWatch → SNS Alerts
 ## Project Structure
 
 ├── README.md
+
 ├── screenshots/
-│ ├── core/
-│ └── full/
+
 
